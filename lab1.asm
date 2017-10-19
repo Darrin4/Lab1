@@ -2,7 +2,7 @@
 	    INCLUDE	    <P18F452.INC>
 	
 	    udata_acs	    0x30
-mapname    res		    1
+mapname     res		    1
 mapname1    res		    1
 mapname2    res		    1
 mapname3    res		    1
